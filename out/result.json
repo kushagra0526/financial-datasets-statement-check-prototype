@@ -1,0 +1,112 @@
+{
+ "dev": {
+  "DIGIT_SWAP": {
+   "n": 94,
+   "flagged": 94,
+   "baseline_flagged": 0,
+   "repaired_correct_value": 94,
+   "unique_and_correct": 90,
+   "unresolved": 0
+  },
+  "DUPLICATE_ROW": {
+   "n": 98,
+   "flagged": 98,
+   "baseline_flagged": 1,
+   "repaired_correct_value": 98,
+   "unique_and_correct": 93,
+   "unresolved": 0
+  },
+  "SCALE": {
+   "n": 113,
+   "flagged": 113,
+   "baseline_flagged": 0,
+   "repaired_correct_value": 113,
+   "unique_and_correct": 108,
+   "unresolved": 0
+  },
+  "SIGN": {
+   "n": 108,
+   "flagged": 108,
+   "baseline_flagged": 2,
+   "repaired_correct_value": 108,
+   "unique_and_correct": 106,
+   "unresolved": 0
+  },
+  "VALUE_TYPO": {
+   "n": 98,
+   "flagged": 98,
+   "baseline_flagged": 0,
+   "repaired_correct_value": 98,
+   "unique_and_correct": 95,
+   "unresolved": 0
+  },
+  "clean": {
+   "n": 183,
+   "flagged": 0,
+   "baseline_flagged": 0
+  }
+ },
+ "held_out": {
+  "DIGIT_SWAP": {
+   "n": 60,
+   "flagged": 60,
+   "baseline_flagged": 0,
+   "repaired_correct_value": 60,
+   "unique_and_correct": 56,
+   "unresolved": 0
+  },
+  "DUPLICATE_ROW": {
+   "n": 72,
+   "flagged": 72,
+   "baseline_flagged": 0,
+   "repaired_correct_value": 72,
+   "unique_and_correct": 67,
+   "unresolved": 0
+  },
+  "SCALE": {
+   "n": 89,
+   "flagged": 89,
+   "baseline_flagged": 0,
+   "repaired_correct_value": 89,
+   "unique_and_correct": 88,
+   "unresolved": 0
+  },
+  "SHARES_UNIT": {
+   "n": 86,
+   "flagged": 86,
+   "baseline_flagged": 0,
+   "repaired_correct_value": 86,
+   "unique_and_correct": 63,
+   "unresolved": 0
+  },
+  "SIGN": {
+   "n": 76,
+   "flagged": 76,
+   "baseline_flagged": 1,
+   "repaired_correct_value": 76,
+   "unique_and_correct": 75,
+   "unresolved": 0
+  },
+  "TAG_SWAP": {
+   "n": 88,
+   "flagged": 88,
+   "baseline_flagged": 0,
+   "repaired_correct_value": 0,
+   "unique_and_correct": 0,
+   "unresolved": 88
+  },
+  "VALUE_TYPO": {
+   "n": 70,
+   "flagged": 70,
+   "baseline_flagged": 0,
+   "repaired_correct_value": 70,
+   "unique_and_correct": 66,
+   "unresolved": 0
+  },
+  "clean": {
+   "n": 157,
+   "flagged": 0,
+   "baseline_flagged": 0
+  }
+ }
+}
